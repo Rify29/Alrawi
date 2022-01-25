@@ -76,18 +76,18 @@
     }
   }],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    "url" : "hhttps: //github.com/Rify29/Alrawi/jmthon"
   },{
-    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
+    "url" : "hthttps: //github.com/Rify29/Alrawi/jmthon"
   },{
-    "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
+    "url":"hthttps://github.com/Rify29/Alrawi/jmthon
   },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
+    "url": "hhttps://github.com/Rify29/Alrawi/jmthon
   },{
-    "url": "https://github.com/heroku/heroku-buildpack-apt.git"
+    "url" : "hhttps: //github.com/Rify29/Alrawi/jmthon"
   },{
-    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
-  },{
-    "url": "heroku/python"
+    "url" : "hhttps: //github.com/Rify29/Alrawi/jmthon"
+  } ، {
+    "url" : "heroku / python"
   }]
 }
