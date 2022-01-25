@@ -1,0 +1,17 @@
+FROM SourseRify-AR/MA-Rify:
+
+#clonning repo 
+
+RUN git clone https://github.com/Rify29/Alrawi/
+
+#working directory 
+
+WORKDIR /root/SourseRify
+
+# Install requirements
+
+RUN pip3 install -U -r requirements.txt
+
+ENV PATH="/home/SourseRify/bin:$PATH"
+
+CMD ["python3","-m","SourseRify"]
